@@ -1,0 +1,26 @@
+.div{
+  width: 100%;
+  height: auto;
+  min-height: 1000px;
+  background-color: rgb(35, 37, 37);
+}
+.div3{
+  width: 1000px;
+  height: 1000px;
+  background-color: rgb(35, 37, 37);
+}
+.active{
+  font-size: 25px;
+  color: aliceblue !important;
+  width: 200px;
+
+}
+.active:hover{
+  background-color: aliceblue;
+  color: rgb(23, 26, 26) !important;
+  
+}
+#footer{
+  display: flex;
+  justify-content: space-between;
+}

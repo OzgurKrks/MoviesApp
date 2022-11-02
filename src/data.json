@@ -1,0 +1,32 @@
+{
+    "movies":[
+        {
+            "id":"1",
+            "name":"HULK",
+            "img":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRLzaRn7-5SjO1FtMv-lNClx3E-zwsPjnvRgR2yLBg4rru7Ejf",
+          
+            "imdb":"5.6"
+        },
+        {
+            "id":"2",
+            "name":"SPIDER-MAN",
+            "img":"https://upload.wikimedia.org/wikipedia/tr/8/8e/Sm3poster09.jpg",
+          
+            "imdb":"7.4"
+        },
+        {
+            "id":"3",
+            "name":"X-MEN",
+            "img":"https://tr.web.img4.acsta.net/pictures/bzp/01/25518.jpg",
+         
+            "imdb":"7.3"
+        },
+        {
+            "id":"4",
+            "name":"IRON-MAN 2",
+            "img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQY7h-yGjDnXZoWwDXGDnu1eve6PWlJpow8_w5ISHNKEnQgjoxn",
+          
+            "imdb":"6.9"
+        }
+    ]
+}
